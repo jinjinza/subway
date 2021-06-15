@@ -245,8 +245,8 @@ h1{
     background-image:url(./images/btn_more.png);
     background-image:no-repeat;
     position:absolute;
-    top:50%; left:50%;
-    opacity:0; transform:translate(-50% -50%);
+    top:100px; left:50%;
+    opacity:0; transform:translate(-50%);
     transition:all 0.5s;
     /* display: none; */
 }
