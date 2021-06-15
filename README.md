@@ -1,3 +1,3 @@
 # subway
 
-https://github.com/jinjinza/subway.git
+https://jinjinza.github.io/subway/
