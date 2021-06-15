@@ -201,7 +201,7 @@ h1{
 #main .subwaymenu .content ul{overflow:hidden;}
 #main .subwaymenu .content li{
     float:left; width:25%;
-    padding:20px 0;
+    padding:20px 15px;
     text-align:center;
     position:relative;
     /* overflow:hidden; */
@@ -237,7 +237,7 @@ h1{
     transform:scale(1.5) translateY(15px);
 }
 #main .subwaymenu .content li:hover img{
-    transform:scale(1.2);
+    transform:scale(1.25);
 }
 #main .subwaymenu .content li a::after{
     content:'';
